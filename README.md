@@ -1,10 +1,16 @@
-# abnode
+# abvance
+
+Outil web de gestion de tickets, sécurisé et en ligne, pensé pour faire travailler
+ensemble une équipe de développement et ses clients sur les mêmes projets.
+
+📄 **[Spécifications](docs/SPECIFICATIONS.md)** — document vivant, à lire avant toute
+discussion technique.
 
 ## Démarrage
 
 ```bash
-git clone https://github.com/Abend-core/abnode.git
-cd abnode
+git clone https://github.com/Abend-core/abvance.git
+cd abvance
 ```
 
 ## Workflow d'équipe
